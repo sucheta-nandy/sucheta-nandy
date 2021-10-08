@@ -9,7 +9,6 @@
 ![Sucheta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sucheta-nandy&show_icons=true&theme=radical)
 
 Show some  ❤️  by starring some of the repositories!
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer&fontSize=50)
 
 <!---
 sucheta-nandy/sucheta-nandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
