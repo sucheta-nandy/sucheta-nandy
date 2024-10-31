@@ -3,8 +3,6 @@
 - 🌱 I’m currently working as a Systems Engineer in Tata Consultancy Services.
 - 📫 How to reach me: suchetanandy217@gmail.com or https://sucheta-nandy.github.io or https://twitter.com/NandySucheta or https://www.linkedin.com/in/sucheta-nandy-a79605180/
 
-![Sucheta's GitHub stats](https://github-readme-stats.vercel.app/api?username=sucheta-nandy&show_icons=true&theme=radical)
-
 Show some  ❤️  by starring some of the repositories!
 
 <!---
